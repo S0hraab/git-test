@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 1
 2
 3
 4
 5
+=======
+salam 1402-02-23
+khate 1 eshtebah ast
+>>>>>>> 76cee5b5301032bc3a190b30e87c2e6f74f36a36
